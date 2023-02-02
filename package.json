@@ -1,0 +1,24 @@
+{
+  "name": "graphql-course",
+  "version": "1.0.0",
+  "description": "Introduction: GraphQL queries with Scalar and objects types for Apollo Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegodovale21/graphQl-course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diegodovale21/graphQl-course/issues"
+  },
+  "homepage": "https://github.com/diegodovale21/graphQl-course#readme",
+  "dependencies": {
+    "apollo-server": "^3.11.1",
+    "graphql": "^16.6.0"
+  }
+}
