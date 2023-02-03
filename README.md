@@ -6,5 +6,7 @@ Introduction: GraphQL queries with Scalar and objects types for Apollo Server
 ```
 npm init -y
 npm install apollo-server graphql
+npm install sucrase -D
+npm install nodemon -D
 
 ```
